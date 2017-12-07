@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<book xmlns="urn:temp-schema" genre="novel">
+    <title>The Confidence Man</title>
+    <author>
+      <first-name>Herman</first-name>
+      <last-name>Melville</last-name>
+    </author>
+    <price>11.99vfgdgd</price>
+</book>

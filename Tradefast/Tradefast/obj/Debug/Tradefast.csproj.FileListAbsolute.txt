@@ -1,0 +1,12 @@
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\bin\Debug\Tradefast.exe.config
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\bin\Debug\Tradefast.exe
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\bin\Debug\Tradefast.pdb
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\obj\Debug\Tradefast.csprojResolveAssemblyReference.cache
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\obj\Debug\Tradefast.exe
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\Tradefast\Tradefast\obj\Debug\Tradefast.pdb
+D:\Documents\Work\Tradefast\Tradefast\bin\Debug\Tradefast.exe.config
+D:\Documents\Work\Tradefast\Tradefast\obj\Debug\Tradefast.exe
+D:\Documents\Work\Tradefast\Tradefast\obj\Debug\Tradefast.pdb
+D:\Documents\Work\Tradefast\Tradefast\bin\Debug\Tradefast.exe
+D:\Documents\Work\Tradefast\Tradefast\bin\Debug\Tradefast.pdb
+D:\Documents\Work\Tradefast\Tradefast\obj\Debug\Tradefast.csprojResolveAssemblyReference.cache

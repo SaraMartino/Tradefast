@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Manifest>
+<BillOfLading>
+<DocumentType>MBL</DocumentType>
+<Office>BO</Office>
+<Mailto>carlotta.naldi@DELCORONASCARDIGLI.COM             </Mailto>
+<HouseBillNumber>4806317</HouseBillNumber>
+<AmendmentFlag>A</AmendmentFlag>
+<MBL>ZIMUNAP395237</MBL>
+<OBL />
+<ShipmentType>F</ShipmentType>
+<NVOCScac />
+<SendersUniqueReference>DCS4806317</SendersUniqueReference>
+  <ShipperPartyInfo>
+      <AccountCode> </AccountCode>
+      <Name>SPINELLI SRL</Name>
+      <StreetAddress1>VIA PIANA LA FARA 90</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>66041 ATESSA (CH)</City>
+      <State> </State>
+      <Zip>66041</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </ShipperPartyInfo>
+  <ConsigneePartyInfo>
+      <AccountCode> </AccountCode>
+      <Name>FEDWAY ASSOCIATES</Name>
+      <StreetAddress1>20 HACKENSACK AVENUE</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>SOUTH KEARNY NJ 07032 USA</City>
+      <State> </State>
+      <Zip>07032</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+      <ConsigneeNumberQualifier> </ConsigneeNumberQualifier>
+      <ConsigneeNumber> </ConsigneeNumber>
+    </ConsigneePartyInfo>
+  <NotifyPartyInfo>
+      <AccountCode>0000000</AccountCode>
+      <Name>ALPHA INTERNATIONAL</Name>
+      <StreetAddress1>510 THORNALL STREET</StreetAddress1>
+      <StreetAddress2>EDISON,NJ 08837 USA</StreetAddress2>
+      <City> </City>
+      <State> </State>
+      <Zip>08837     </Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </NotifyPartyInfo>
+  <ShipToPartyInfo>
+      <AccountCode> </AccountCode>
+      <Name>FEDWAY ASSOCIATES</Name>
+      <StreetAddress1>20 HACKENSACK AVENUE</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>SOUTH KEARNY NJ 07032 USA</City>
+      <State> </State>
+      <Zip>07032</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </ShipToPartyInfo>
+   <BuyerInfo>
+      <AccountCode> </AccountCode>
+      <Name>FEDWAY ASSOCIATES</Name>
+      <StreetAddress1>20 HACKENSACK AVENUE</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>SOUTH KEARNY NJ 07032 USA</City>
+      <State> </State>
+      <Zip>07032</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </BuyerInfo>
+  <SellerInfo>
+      <AccountCode> </AccountCode>
+      <Name>SPINELLI SRL</Name>
+      <StreetAddress1>VIA PIANA LA FARA 90</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>66041 ATESSA (CH)</City>
+      <State> </State>
+      <Zip>66041</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </SellerInfo>
+  <ManufacturerInfo>
+      <AccountCode>       </AccountCode>
+      <Name>SPINELLI SRL</Name>
+      <StreetAddress1>VIA PIANA LA FARA 90</StreetAddress1>
+      <StreetAddress2> </StreetAddress2>
+      <City>66041 ATESSA (CH)</City>
+      <State> </State>
+      <Zip>66041</Zip>
+      <Country> </Country>
+      <Contact />
+      <Phone />
+      <Fax />
+    </ManufacturerInfo>
+    <LINECode>1001582</LINECode>
+    <LINEName>ZIM INTEGRATED SHIPPING SERVICES LTD.-ZIMU</LINEName>
+    <VesselName>BROTONNE BRIDGE</VesselName>
+    <VoyageNumber>31</VoyageNumber>
+    <Transship> </Transship>
+    <TransshipPort>     </TransshipPort>
+    <TransshipETD>     </TransshipETD>
+    <TransshipVoyageNumber>     </TransshipVoyageNumber>
+    <TransshipVesselNumber>     </TransshipVesselNumber>
+    <TenTwoEntryType>     </TenTwoEntryType>
+    <ImporterOfRecordNumberQualifier>     </ImporterOfRecordNumberQualifier>
+    <ImporterOfRecordNumber>     </ImporterOfRecordNumber>
+    <TenTwoApplicationType>     </TenTwoApplicationType>
+    <CarnetCountry>     </CarnetCountry>
+    <CarnetNumber>     </CarnetNumber>
+    <BondType>     </BondType>
+    <BondActivityCode>     </BondActivityCode>
+    <BondReferenceType>     </BondReferenceType>
+    <BondReferenceNumber>     </BondReferenceNumber>
+    <ISFImporterIDType>     </ISFImporterIDType>
+    <ISFImporterID>     </ISFImporterID>
+    <SuretyCode>     </SuretyCode>
+    <CBPEntryType>60</CBPEntryType>
+    <SCAC_Carrier >     </SCAC_Carrier >
+    <CBSAEntryType>     </CBSAEntryType>
+    <CarrierCode>     </CarrierCode>
+    <POL>LEGHORN</POL>
+    <POLCODE>ITLIV</POLCODE>
+    <ETD>20171201</ETD>
+    <POD>NEW YORK</POD>
+    <PODCODE>USNYC</PODCODE>
+    <ETA>20171224</ETA>
+   <Container>
+    <ContainerNumber>ZCSU2744790                                       </ContainerNumber>
+    <ContainerType>40</ContainerType>
+    <ContainerSize>40DV      </ContainerSize>
+    <Seal>052419,779177      </Seal>
+   <ContainerContent>
+    <Kilos>   20100.000</Kilos>
+    <Quantity>1432       </Quantity>
+    <UnitOfMeasure>PKG</UnitOfMeasure>
+    <FreeFormDescription>WINE</FreeFormDescription>
+    <MarksAndNumbers>NO MARKS</MarksAndNumbers>
+    <Value>   </Value>
+   <HazMatCode></HazMatCode>
+   <HazMatQualifier></HazMatQualifier>
+   <HTScode>.</HTScode>
+   </ContainerContent>
+   </Container>
+</BillOfLading>
+</Manifest>

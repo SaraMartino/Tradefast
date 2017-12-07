@@ -1,0 +1,9 @@
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\bin\Debug\ShippingService.exe.config
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\obj\Debug\ShippingService.csprojResolveAssemblyReference.cache
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\bin\Debug\ShippingService.exe
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\bin\Debug\ShippingService.pdb
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\obj\Debug\ShippingService.exe
+D:\Documents\Università\II Anno\Computer Graphics\PROGETTO_ESAME\ShippingService\ShippingService\obj\Debug\ShippingService.pdb
+D:\Documents\Work\Projects\ShippingService\ShippingService\bin\Debug\ShippingService.exe.config
+D:\Documents\Work\Projects\ShippingService\ShippingService\obj\Debug\ShippingService.exe
+D:\Documents\Work\Projects\ShippingService\ShippingService\obj\Debug\ShippingService.pdb

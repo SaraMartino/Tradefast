@@ -1,0 +1,31 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns="urn:temp-schema"
+    elementFormDefault="qualified"
+    targetNamespace="urn:temp-schema">
+
+ <xs:element name="book" type="bookType"/>
+
+ <xs:complexType name="bookType">
+  <xs:all>  
+   <xs:element name="title" type="xs:string"/>
+   <xs:element name="author" type="authorName"/>
+   <xs:element name="price"  type="xs:decimal"/>
+   <xs:element name="function" type="functions" minOccurs="1" />
+  </xs:all>
+  <xs:attribute name="genre" type="xs:string"/>
+ </xs:complexType>
+
+ <xs:complexType name="authorName">
+  <xs:sequence>
+   <xs:element name="first-name"  type="xs:string"/>
+   <xs:element name="last-name" type="xs:string"/>
+  </xs:sequence>
+ </xs:complexType>
+ 
+ <xs:complexType name="functions">
+  <xs:sequence>
+   <xs:element name="name" type="xs:string"/>
+  </xs:sequence>
+ </xs:complexType>
+
+</xs:schema>
