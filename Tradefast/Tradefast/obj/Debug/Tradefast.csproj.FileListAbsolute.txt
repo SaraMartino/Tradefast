@@ -10,3 +10,6 @@ D:\Documents\Work\Tradefast\Tradefast\obj\Debug\Tradefast.pdb
 D:\Documents\Work\Tradefast\Tradefast\bin\Debug\Tradefast.exe
 D:\Documents\Work\Tradefast\Tradefast\bin\Debug\Tradefast.pdb
 D:\Documents\Work\Tradefast\Tradefast\obj\Debug\Tradefast.csprojResolveAssemblyReference.cache
+D:\Documents\Work\Projects\Tradefast\Tradefast\Tradefast\bin\Debug\Tradefast.exe.config
+D:\Documents\Work\Projects\Tradefast\Tradefast\Tradefast\obj\Debug\Tradefast.exe
+D:\Documents\Work\Projects\Tradefast\Tradefast\Tradefast\obj\Debug\Tradefast.pdb
